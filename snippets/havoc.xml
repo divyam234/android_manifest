@@ -135,6 +135,7 @@
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" name="android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.17-4.8" remote="havoc" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" remote="havoc" clone-depth="1" />
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="havoc" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
 
   <!-- System -->
   <project path="system/bt" name="android_system_bt" remote="havoc" />
