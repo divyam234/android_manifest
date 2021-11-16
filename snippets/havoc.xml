@@ -59,6 +59,7 @@
   <project path="external/openssh" name="android_external_openssh" remote="havoc" />
   <project path="external/perfetto" name="android_external_perfetto" remote="havoc" />
   <project path="external/pulse" name="android_external_pulse" remote="havoc" />
+  <project path="external/robolectric-shadows" name="android_external_robolectric-shadows" remote="havoc" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="havoc" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="havoc" />
   <project path="external/toybox" name="android_external_toybox" remote="havoc" />
@@ -103,6 +104,7 @@
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="havoc" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="havoc" />
   <project path="packages/apps/GamingMode" name="android_packages_apps_GamingMode" remote="havoc" />
+  <project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="havoc" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="havoc" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="havoc" />
   <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="havoc" />
@@ -118,8 +120,11 @@
   <project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="havoc" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="havoc" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="havoc" />
+  <project path="packages/modules/CaptivePortalLogin" name="android_packages_modules_CaptivePortalLogin" remote="havoc" />
+  <project path="packages/modules/DnsResolver" name="android_packages_modules_DnsResolver" remote="havoc" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="havoc" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="havoc" />
+  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="havoc" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="havoc" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="havoc" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="havoc" />
